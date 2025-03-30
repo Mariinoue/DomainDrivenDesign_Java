@@ -1,4 +1,4 @@
-package br.com.fiap;
+package br.com.fiap.aula4;
 
 public class UsaTelevisor {
     public static void main(String[] args) {

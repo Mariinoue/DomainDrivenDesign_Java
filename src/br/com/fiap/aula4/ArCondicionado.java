@@ -1,4 +1,4 @@
-package br.com.fiap;
+package br.com.fiap.aula4;
 
 public class ArCondicionado {
     public int temperatura;
