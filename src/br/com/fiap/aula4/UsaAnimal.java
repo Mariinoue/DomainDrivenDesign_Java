@@ -11,7 +11,6 @@ public class UsaAnimal {
         animal.passear();
         animal.mudarPoiscao("em pé");
         animal.mudarPoiscao("sentada");
-
         System.out.println("A " + animal.nome + " é um " + animal.especie + "\nE ela hoje fez um passeio de " + animal.ditanciaPasseio + " km " + "\nMas agora está " + animal.posicao);
     }
 }
