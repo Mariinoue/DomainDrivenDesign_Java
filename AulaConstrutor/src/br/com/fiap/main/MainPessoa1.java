@@ -2,7 +2,7 @@ package br.com.fiap.main;
 
 import br.com.fiap.bean.Pessoa;
 
-public class Main {
+public class MainPessoa1 {
     public static void main(String[] args) {
         //decalaração do objeto = instaciação e cria um novo objeto
         //cria um novo objeto

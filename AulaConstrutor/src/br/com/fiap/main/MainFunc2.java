@@ -5,7 +5,7 @@ import br.com.fiap.bean.Funcionario;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class MainFuncioanario {
+public class MainFunc2 {
     public static void main(String[] args) {
         Funcionario funcionario1;
         Scanner scan;
